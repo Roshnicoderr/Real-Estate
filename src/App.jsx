@@ -2,7 +2,7 @@ import React from 'react'
 import Header from './components/Header'
 import About from './components/About'
 import Project from './components/Project'
-import Testimonial from './components/testimonial'
+import Testimonial from './components/Testimonial'
 import ContactUs from './components/ContactUs'
 
 import { ToastContainer } from 'react-toastify';
